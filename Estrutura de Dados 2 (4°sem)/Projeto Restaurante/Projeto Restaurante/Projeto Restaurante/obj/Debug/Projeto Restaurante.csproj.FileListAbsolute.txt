@@ -1,0 +1,7 @@
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Restaurante\Projeto Restaurante\Projeto Restaurante\obj\Debug\Projeto Restaurante.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Restaurante\Projeto Restaurante\Projeto Restaurante\obj\Debug\Projeto Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Restaurante\Projeto Restaurante\Projeto Restaurante\bin\Debug\Projeto Restaurante.exe.config
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Restaurante\Projeto Restaurante\Projeto Restaurante\bin\Debug\Projeto Restaurante.exe
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Restaurante\Projeto Restaurante\Projeto Restaurante\bin\Debug\Projeto Restaurante.pdb
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Restaurante\Projeto Restaurante\Projeto Restaurante\obj\Debug\Projeto Restaurante.exe
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Restaurante\Projeto Restaurante\Projeto Restaurante\obj\Debug\Projeto Restaurante.pdb
