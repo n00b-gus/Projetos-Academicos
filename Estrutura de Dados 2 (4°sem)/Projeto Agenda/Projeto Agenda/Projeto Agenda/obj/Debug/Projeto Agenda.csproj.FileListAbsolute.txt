@@ -1,0 +1,7 @@
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda\Projeto Agenda\Projeto Agenda\obj\Debug\Projeto Agenda.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda\Projeto Agenda\Projeto Agenda\obj\Debug\Projeto Agenda.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda\Projeto Agenda\Projeto Agenda\bin\Debug\Projeto Agenda.exe.config
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda\Projeto Agenda\Projeto Agenda\bin\Debug\Projeto Agenda.exe
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda\Projeto Agenda\Projeto Agenda\bin\Debug\Projeto Agenda.pdb
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda\Projeto Agenda\Projeto Agenda\obj\Debug\Projeto Agenda.exe
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda\Projeto Agenda\Projeto Agenda\obj\Debug\Projeto Agenda.pdb
