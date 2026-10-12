@@ -1,0 +1,10 @@
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda WFA\Projeto Agenda WFA\Projeto Agenda WFA\obj\Debug\Projeto Agenda WFA.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda WFA\Projeto Agenda WFA\Projeto Agenda WFA\obj\Debug\Projeto_Agenda_WFA.Form1.resources
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda WFA\Projeto Agenda WFA\Projeto Agenda WFA\obj\Debug\Projeto_Agenda_WFA.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda WFA\Projeto Agenda WFA\Projeto Agenda WFA\obj\Debug\Projeto Agenda WFA.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda WFA\Projeto Agenda WFA\Projeto Agenda WFA\obj\Debug\Projeto Agenda WFA.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda WFA\Projeto Agenda WFA\Projeto Agenda WFA\bin\Debug\Projeto Agenda WFA.exe.config
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda WFA\Projeto Agenda WFA\Projeto Agenda WFA\bin\Debug\Projeto Agenda WFA.exe
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda WFA\Projeto Agenda WFA\Projeto Agenda WFA\bin\Debug\Projeto Agenda WFA.pdb
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda WFA\Projeto Agenda WFA\Projeto Agenda WFA\obj\Debug\Projeto Agenda WFA.exe
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Agenda WFA\Projeto Agenda WFA\Projeto Agenda WFA\obj\Debug\Projeto Agenda WFA.pdb
