@@ -1,0 +1,7 @@
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Gerenciador de Projetos\Projeto Gerenciador de Projetos\Projeto Gerenciador de Projetos\bin\Debug\Projeto Gerenciador de Projetos.exe.config
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Gerenciador de Projetos\Projeto Gerenciador de Projetos\Projeto Gerenciador de Projetos\bin\Debug\Projeto Gerenciador de Projetos.exe
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Gerenciador de Projetos\Projeto Gerenciador de Projetos\Projeto Gerenciador de Projetos\bin\Debug\Projeto Gerenciador de Projetos.pdb
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Gerenciador de Projetos\Projeto Gerenciador de Projetos\Projeto Gerenciador de Projetos\obj\Debug\Projeto Gerenciador de Projetos.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Gerenciador de Projetos\Projeto Gerenciador de Projetos\Projeto Gerenciador de Projetos\obj\Debug\Projeto Gerenciador de Projetos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Gerenciador de Projetos\Projeto Gerenciador de Projetos\Projeto Gerenciador de Projetos\obj\Debug\Projeto Gerenciador de Projetos.exe
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Gerenciador de Projetos\Projeto Gerenciador de Projetos\Projeto Gerenciador de Projetos\obj\Debug\Projeto Gerenciador de Projetos.pdb
