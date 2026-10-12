@@ -14,7 +14,6 @@ namespace Projeto_Agenda_WFA
     {
         private Contatos geradorContatos;
 
-        // Elementos visuais (Controlos)
         private TextBox txtEmail, txtNome, txtDia, txtMes, txtAno, txtTelTipo, txtTelNumero;
         private CheckBox chkPrincipal;
         private ListBox lstContatos;
@@ -26,7 +25,6 @@ namespace Projeto_Agenda_WFA
             InicializarComponentes();
         }
 
-        // Configuração básica do tamanho e título da janela
         private void ConfigurarJanela()
         {
             this.Text = "Projeto Agenda - Windows Forms";
@@ -34,10 +32,8 @@ namespace Projeto_Agenda_WFA
             this.StartPosition = FormStartPosition.CenterScreen;
         }
 
-        // Desenho dos botões, caixas de texto e listas no ecrã
         private void InicializarComponentes()
         {
-            // --- SEÇÃO: DADOS DO CONTATO ---
             AdicionarLabel("E-mail:", 20, 20);
             txtEmail = AdicionarTextBox(20, 40, 200);
 
@@ -49,7 +45,6 @@ namespace Projeto_Agenda_WFA
             txtMes = AdicionarTextBox(70, 90, 40);
             txtAno = AdicionarTextBox(120, 90, 60);
 
-            // --- SEÇÃO: TELEFONE ---
             AdicionarLabel("Novo Telefone (Tipo / Número):", 230, 70);
             txtTelTipo = AdicionarTextBox(230, 90, 80);
             txtTelNumero = AdicionarTextBox(320, 90, 110);
@@ -57,7 +52,6 @@ namespace Projeto_Agenda_WFA
             chkPrincipal = new CheckBox { Text = "Principal?", Top = 90, Left = 440, Width = 80 };
             this.Controls.Add(chkPrincipal);
 
-            // --- SEÇÃO: BOTÕES DE AÇÃO ---
             Button btnAdicionar = AdicionarBotao("Adicionar", 20, 140);
             btnAdicionar.Click += BtnAdicionar_Click;
 
@@ -73,7 +67,6 @@ namespace Projeto_Agenda_WFA
             Button btnListar = AdicionarBotao("Listar Todos", 460, 140);
             btnListar.Click += BtnListar_Click;
 
-            // --- SEÇÃO: LISTA DE VISUALIZAÇÃO ---
             AdicionarLabel("Lista de Contatos:", 20, 190);
             lstContatos = new ListBox
             {
@@ -81,29 +74,23 @@ namespace Projeto_Agenda_WFA
                 Left = 20,
                 Width = 590,
                 Height = 200,
-                Font = new Font("Consolas", 9) // Fonte monoespaçada para ficar alinhado
+                Font = new Font("Consolas", 9)
             };
             this.Controls.Add(lstContatos);
         }
 
-        // ==========================================
-        // 3. EVENTOS DOS BOTÕES (A nova lógica do Seletor)
-        // ==========================================
         private void BtnAdicionar_Click(object sender, EventArgs e)
         {
             try
             {
-                // Lê os dados inseridos nas caixas de texto
                 Data dt = new Data(int.Parse(txtDia.Text), int.Parse(txtMes.Text), int.Parse(txtAno.Text));
                 Contato novo = new Contato(txtEmail.Text, txtNome.Text, dt);
 
-                // Adiciona o telefone se os campos não estiverem vazios
                 if (!string.IsNullOrWhiteSpace(txtTelNumero.Text))
                 {
                     novo.AdicionarTelefone(new Telefone(txtTelTipo.Text, txtTelNumero.Text, chkPrincipal.Checked));
                 }
 
-                // Tenta adicionar à agenda
                 if (geradorContatos.Adicionar(novo))
                 {
                     MessageBox.Show("Contacto adicionado com sucesso!", "Sucesso", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -126,7 +113,6 @@ namespace Projeto_Agenda_WFA
             Contato c = geradorContatos.Pesquisar(new Contato(txtEmail.Text));
             if (c != null)
             {
-                // Preenche os campos com os dados encontrados
                 txtNome.Text = c.Nome;
                 txtDia.Text = c.DtNasc.Dia.ToString();
                 txtMes.Text = c.DtNasc.Mes.ToString();
@@ -181,9 +167,6 @@ namespace Projeto_Agenda_WFA
             AtualizarLista();
         }
 
-        // ==========================================
-        // 4. MÉTODOS AUXILIARES
-        // ==========================================
         private void AtualizarLista()
         {
             lstContatos.Items.Clear();
@@ -201,7 +184,6 @@ namespace Projeto_Agenda_WFA
             chkPrincipal.Checked = false;
         }
 
-        // Funções para simplificar a criação visual por código
         private void AdicionarLabel(string texto, int left, int top)
         {
             this.Controls.Add(new Label { Text = texto, Left = left, Top = top, AutoSize = true });
