@@ -1,0 +1,7 @@
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Biblioteca\Projeto Biblioteca\Projeto Biblioteca\obj\Debug\Projeto Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Biblioteca\Projeto Biblioteca\Projeto Biblioteca\obj\Debug\Projeto Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Biblioteca\Projeto Biblioteca\Projeto Biblioteca\bin\Debug\Projeto Biblioteca.exe.config
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Biblioteca\Projeto Biblioteca\Projeto Biblioteca\bin\Debug\Projeto Biblioteca.exe
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Biblioteca\Projeto Biblioteca\Projeto Biblioteca\bin\Debug\Projeto Biblioteca.pdb
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Biblioteca\Projeto Biblioteca\Projeto Biblioteca\obj\Debug\Projeto Biblioteca.exe
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Biblioteca\Projeto Biblioteca\Projeto Biblioteca\obj\Debug\Projeto Biblioteca.pdb
