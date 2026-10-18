@@ -1,0 +1,10 @@
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Atendimento\Projeto Atendimento\Projeto Atendimento\obj\Debug\Projeto Atendimento.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Atendimento\Projeto Atendimento\Projeto Atendimento\obj\Debug\Projeto_Atendimento.Form1.resources
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Atendimento\Projeto Atendimento\Projeto Atendimento\obj\Debug\Projeto_Atendimento.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Atendimento\Projeto Atendimento\Projeto Atendimento\obj\Debug\Projeto Atendimento.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Atendimento\Projeto Atendimento\Projeto Atendimento\obj\Debug\Projeto Atendimento.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Atendimento\Projeto Atendimento\Projeto Atendimento\bin\Debug\Projeto Atendimento.exe.config
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Atendimento\Projeto Atendimento\Projeto Atendimento\bin\Debug\Projeto Atendimento.exe
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Atendimento\Projeto Atendimento\Projeto Atendimento\bin\Debug\Projeto Atendimento.pdb
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Atendimento\Projeto Atendimento\Projeto Atendimento\obj\Debug\Projeto Atendimento.exe
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Atendimento\Projeto Atendimento\Projeto Atendimento\obj\Debug\Projeto Atendimento.pdb
