@@ -1,0 +1,7 @@
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Medicamentos\Projeto Medicamentos\Projeto Medicamentos\bin\Debug\Projeto Medicamentos.exe.config
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Medicamentos\Projeto Medicamentos\Projeto Medicamentos\bin\Debug\Projeto Medicamentos.exe
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Medicamentos\Projeto Medicamentos\Projeto Medicamentos\bin\Debug\Projeto Medicamentos.pdb
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Medicamentos\Projeto Medicamentos\Projeto Medicamentos\obj\Debug\Projeto Medicamentos.csproj.AssemblyReference.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Medicamentos\Projeto Medicamentos\Projeto Medicamentos\obj\Debug\Projeto Medicamentos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Medicamentos\Projeto Medicamentos\Projeto Medicamentos\obj\Debug\Projeto Medicamentos.exe
+C:\Users\Gustavo\Desktop\C++\EDD2\Projeto Medicamentos\Projeto Medicamentos\Projeto Medicamentos\obj\Debug\Projeto Medicamentos.pdb
